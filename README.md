@@ -1,5 +1,4 @@
-# Proyecto_Ecotermo
+# Ecotermo Study Case
 
-Consumo de API de Mercadolibre para análisis técnico y de mercado
+Consumption of the Mercadolibre API for technical and market analysis.
 
-A work in progress // translation pending
